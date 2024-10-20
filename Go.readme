@@ -1,0 +1,17 @@
+/* 
+1. Statically typed lang : - you have to tell the type.
+2 . Strongly typed lang :- you can't add string and number like in js
+3. Go is compiled 
+4. fast compiled time
+5. built in concurrency , 6. Simplicity
+7. Garbage Collector
+*/
+
+/* 
+to create a go project : go mod init module_name (telling the go about the project name ) : - will create a go.mod file known as module (kind of package.json)
+each project file will contains packages/folder that contains go code . 
+you have to mention the package they refer to : package package1
+
+
+ */
+
