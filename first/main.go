@@ -22,5 +22,8 @@ func main() {
 	// * practicePackage.Main_function()
 
 	// run this to get idea about array , map , slice , loops
-	practicePackage.ArrayMapSliceLoops()
+	//* practicePackage.ArrayMapSliceLoops()
+
+	// struct and iterface
+	practicePackage.StructInterface()
 }

@@ -2,7 +2,6 @@ package practicePackage
 
 import (
 	"fmt"
-
 	"unicode/utf8"
 )
 
